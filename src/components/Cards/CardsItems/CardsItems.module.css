@@ -1,0 +1,86 @@
+.cards_wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.card_yellow {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 25px;
+  width: 204px;
+  min-height: 100%;
+  background: #ffd300;
+  border-radius: 10px;
+  color: #000;
+}
+.card_black {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 25px;
+  width: 204px;
+  min-height: 100%;
+  background: #4b5257;
+  border-radius: 10px;
+}
+.card_green {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 204px;
+  min-height: 100%;
+  background: #5bbfc8;
+  border-radius: 10px;
+}
+.card_info {
+  padding: 16px 0px 0px 16px;
+}
+.card_prices_yellow {
+  text-align: center;
+  padding: 5px;
+  max-width: 78px;
+  background: #deb905;
+  border-radius: 5px;
+}
+
+.card_prices_black {
+  text-align: center;
+  padding: 5px;
+  max-width: 78px;
+  background: #b0b0b0;
+  border-radius: 5px;
+}
+.card_prices_green {
+  text-align: center;
+  padding: 5px;
+  max-width: 78px;
+  background: #49a1a9;
+  border-radius: 5px;
+}
+.card_title_yellow {
+  padding-top: 20px;
+  font-weight: 800;
+  font-size: 19px;
+  line-height: 25px;
+  color: #000;
+}
+.card_title_black {
+  padding-top: 20px;
+  font-weight: 800;
+  font-size: 19px;
+  line-height: 25px;
+  color: #fff;
+}
+
+.card_title_green {
+  padding-top: 20px;
+  font-weight: 800;
+  font-size: 19px;
+  line-height: 25px;
+  color: #000;
+}
+.card_image_wrap {
+  display: flex;
+  justify-content: center;
+}

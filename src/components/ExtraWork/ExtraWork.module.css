@@ -1,0 +1,26 @@
+.extraWork_wrapper {
+  padding: 94px 0px 71px 0px;
+}
+.extraWork_title_wrap {
+  background-color: #fff;
+}
+.extraWork_title {
+  font-weight: 800;
+  font-size: 45px;
+  line-height: 55px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #17181c;
+}
+.extraWork_info_wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.extraWork_list_wrap {
+  margin-left: 214px;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 35px;
+  color: #17181c;
+}

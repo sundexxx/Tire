@@ -1,0 +1,16 @@
+.wrapper_layaout {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  background-image: url(../../Accets/img/bg.jpg);
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+@media screen and(max-width: 375px) {
+  .wrapper_main {
+    background: green;
+  }
+}

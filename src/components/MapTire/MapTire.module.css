@@ -1,0 +1,46 @@
+.mapTire_wrapper {
+  padding: 118px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.mapTire_info_wrap {
+  border-right: 3px orange solid;
+  flex: 1 0 50%;
+  background-image: url(../../Accets//img/bgmap.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 1200px;
+}
+.mapTire_title_and_subtitle_wrap {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 500px;
+  padding-top: 226px;
+}
+.mapTire_info_subtitle_wrap {
+  display: flex;
+  padding-top: 47px;
+  justify-content: right;
+}
+.mapTire_info_title {
+  font-weight: 800;
+  line-height: 55px;
+  font-size: 45px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.mapTire_img {
+  max-width: 100%;
+}
+
+.mapTire_info_subtitle {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  color: #ffffff;
+  margin-left: 17px;
+}

@@ -1,0 +1,39 @@
+.mobileTire_wrapper {
+  background-image: url(../../Accets//img/picbg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.mobileTire_title_wrap {
+  padding-top: 94px;
+  padding-bottom: 192px;
+}
+.mobileTire_title {
+  font-weight: 800;
+  font-size: 45px;
+  line-height: 55px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #17181c;
+}
+.mobileTire_services {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 233px;
+  align-items: center;
+}
+.mobileTire_services > * {
+  flex: 1 1 80px;
+  text-align: center;
+}
+.mobileTire_img {
+  max-width: 230px;
+}
+.mobileTire_subtitle {
+  border-bottom: 1px dashed #4c5862;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 23px;
+  color: #17181c;
+  padding: 20px 0px;
+  align-items: center;
+}
